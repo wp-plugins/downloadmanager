@@ -53,3 +53,6 @@ Also, emails which are reporting about plugin's bugs are accepted for investigat
 
 = V1.01 =
 The first version of the wordpress downloadmanager plugin
+
+= V1.02 =
+The first version update of the wordpress downloadmanager plugin
