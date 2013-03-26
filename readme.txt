@@ -1,13 +1,12 @@
   === downloadmanager ===
 
-Contributors: 3jon Ltd.
+Contributors: Shamsul Islam Nirob
 Donate link: #
 Tags: wp-download manager, Download, Download Manager, Data view, Data table, Wp download manager, Wordpress download manager
 Author: Shamsul Islam Nirob
 Author URI: http://profiles.wordpress.org/n4nirob
-Author company URI: http://www.3jon.com
-Author e-mail: nirob@3jon.com
-Requires at least: 3.0
+Author e-mail: n4nirob@gmail.com
+Requires at least: 3.2
 Tested up to: 3.5.1
 Stable tag: 1.01
 License: GPLv2 or later
@@ -31,7 +30,6 @@ Very simple, easy wordpress download manager plugin.
 * Actions: save any quantity of the category data.
 * Description: You can store Album name, Title, Author name, Category name, Download link from plugin menu.
 * Actions: Possibility to load any number of data to each category in the post.
-* Slideshow: User can review all categories.
 
 = Technical support =
 
